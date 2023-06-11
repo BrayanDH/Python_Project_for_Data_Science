@@ -16,4 +16,4 @@ Este modulo contiene el codigo de la solución del proyecto
 
 El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de python proyect for data science de IBM, para lo cual se plantea el siguiente problema:
 
-Se requiere hacer un analisis exploratorio de los datos sobre los stocks de precios de varias compañias de USa.
+Se requiere hacer un analisis exploratorio de los datos sobre los stocks de precios de varias compañias de USA.
