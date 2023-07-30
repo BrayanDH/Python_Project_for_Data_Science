@@ -1,23 +1,20 @@
 # Python Project for Data Science
 
-## Descripción 
-El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de python proyect for data science de IBM, para lo cual se plantea el siguiente problema:
+## Description
+The main objective of this project is to apply the knowledge acquired in the IBM Python Project for Data Science course. The project focuses on solving the following problem:
 
-Se requiere hacer un analisis exploratorio de los datos sobre los stocks de precios de varias compañias de USA.
+Perform an exploratory data analysis of stock prices for multiple companies in the USA.
 
-
-## Modulos
+## Modules
 
 ### 1. WebScraping_Review_Lab.ipynb
-
-Este modulo contiene el codigo para obtener los datos de la pagina web de wikipedia.
+This module contains the code to scrape data from the Wikipedia webpage.
 
 ### 2. Final_Assignment.ipynb
+This module contains the solution code for the project.
 
-Este modulo contiene el codigo de la solución del proyecto
-
-
+---
 
 # Disclaimers
-Este repo contiene los archivos necesarios para la entrega del proyecto final del curso de python proyect for data science de IBM
 
+This repository contains the necessary files for the final project submission of the IBM Python Project for Data Science course.
