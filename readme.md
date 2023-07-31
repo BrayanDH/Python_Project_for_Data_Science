@@ -15,6 +15,6 @@ This module contains the solution code for the project.
 
 ---
 
-# Disclaimers
+## Disclaimers
 
 This repository contains the necessary files for the final project submission of the IBM Python Project for Data Science course.
